@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: darkslategray;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +40,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+div p{
+  text-align: center;
+  color: aliceblue;
+  margin-top: 200px;
+}
+div h1{
+  text-align: center;
+  color: aliceblue;
 }
